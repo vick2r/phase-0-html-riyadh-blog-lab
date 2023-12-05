@@ -7,7 +7,7 @@ html, body {
 
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: 60% 33.5%;
+  background-size: 40% 33.5%;
   background-repeat: repeat-y;
   background-color:black;
   background-attachment: fixed;
@@ -33,7 +33,7 @@ body {
 h1, h2 {
   font-family: 'Gabriela', serif;
   color: #fff;
-  margin-left: 180px;
+  margin-left: 25%;
   
 }
 
@@ -60,7 +60,7 @@ img {
 }
 
 p {
-  font-size: .4em;
+  font-size: .6em;
 }
 
 a {
